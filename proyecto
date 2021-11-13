@@ -1,0 +1,10 @@
+git init
+git head
+title ~m "proyecto"
+git.txt
+tener en cuenta los códigos referentes al programa git para realizar un commit o un repositorio
+
+bit add para generar commit
+y git checaut para ver repositorio
+o git log  para mas detalles
+
